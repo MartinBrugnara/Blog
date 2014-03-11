@@ -58,10 +58,9 @@ What is going on here:
 + Copy the just created ```DATA``` dictionary to a more appropriate attribute   
     (```request.PUT```, ```request.PATCH```, ```request.DELETE```, ...) 
 
-<br><br>
----
 
-### What about ```django.text.Client``` ?
+What about ```django.text.Client``` ?
+======
 
 If django does not consider the possibility to send data with verbs other than GET and POST,<br>
 why should it's test client configured to do that?<br>
