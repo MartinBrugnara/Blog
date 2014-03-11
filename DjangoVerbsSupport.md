@@ -21,7 +21,7 @@ Let me add that it currently (1.6) dose not like neither DELETE nor PATCH.
 
 * or if only the support for all verbs is needed: continue reading.
 
-This code is a generalization of the original version from django-piston. (```coerce_put_post```)
+This code is a generalization of the original version from django-piston. (```coerce_put_post```)<br>
 https://bitbucket.org/jespern/django-piston/src/7c90898072ce9462a6023bbec5d408ad097a362b/piston/utils.py?at=default  
 
 ```python
