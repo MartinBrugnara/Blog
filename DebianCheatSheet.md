@@ -67,6 +67,7 @@ Reference [arch-wiki](https://wiki.archlinux.org/index.php/Network_configuration
 > ip addr flush dev interface
 #  Remove any assigned gateway
 > ip route flush dev interface
+```
 
 ## Debug
 - Show all alive host on a subnet: `nmap -sP ip/mask`.
